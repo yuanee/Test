@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = git@github.com:yuanee/SubCode.git
+[submodule "experiment"]
+	path = experiment
+	url = git@github.com:yuanee/ExperimentalDesign.git

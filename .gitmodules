@@ -7,6 +7,6 @@
 [submodule "accelerate"]
 	path = accelerate
 	url = git@github.com:yuanee/Acceleration_Optimal.git
-[submodule "graph"]
-	path = graph
+[submodule "graphnew"]
+	path = graphnew
 	url = git@github.com:yuanee/GraphTransfer.git

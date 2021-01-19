@@ -4,3 +4,9 @@
 [submodule "experiment"]
 	path = experiment
 	url = git@github.com:yuanee/ExperimentalDesign.git
+[submodule "accelerate"]
+	path = accelerate
+	url = git@github.com:yuanee/Acceleration_Optimal.git
+[submodule "graph"]
+	path = graph
+	url = git@github.com:yuanee/GraphTransfer.git
